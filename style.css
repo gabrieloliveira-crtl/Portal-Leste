@@ -166,7 +166,7 @@ footer ul a li:hover{
         padding: min(3rem, 19rem);
     }
     footer{
-        padding: min(3rem,19rem);
+        padding: min(1rem,19rem);
         font-size: 15px;
     }
 }
